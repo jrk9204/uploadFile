@@ -1,0 +1,15 @@
+.uploadContainer {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, #2a8191, #cdf1f7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.uploadWrapper {
+  text-align: center;
+  border: 2px solid white;
+  width: 400px;
+  min-height: 445px;
+}
